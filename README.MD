@@ -17,12 +17,12 @@
    * Matplotlib
    * Keras
    * Opencv
-   '''
+   ```
     pip install Numpy
     pip install keras
     pip install matplotlib
     pip install python-opencv
-   '''    
+   ```    
 
 ## Convolutional Neural Network
    
